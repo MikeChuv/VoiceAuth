@@ -1,0 +1,10 @@
+
+
+
+.vscode
+*.pickle
+__pycache__
+
+# uic output
+ui_*.py
+*_ui.py

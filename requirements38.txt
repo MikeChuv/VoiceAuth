@@ -1,0 +1,5 @@
+PyQt5
+librosa
+numpy
+sklearn
+soundfile

@@ -1,0 +1,6 @@
+PyQt5
+librosa
+numpy
+sklearn
+pickle5
+soundfile
